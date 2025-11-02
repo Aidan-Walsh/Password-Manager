@@ -1,0 +1,5 @@
+HASH:4d8e5d934cf1413d53f4d675027d5e21032cb6a0686e68fdc5b153b833d5f874
+{
+  "timeout_minutes": 5,
+  "max_login_attempts_tracked": 10
+}
